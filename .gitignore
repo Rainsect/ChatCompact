@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# Forge dev run data
+run/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.eclipse/
+bin/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*

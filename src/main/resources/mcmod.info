@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "chatcompact",
+    "name": "Chat Compact",
+    "description": "折叠聊天中重复的相同消息，合并为一行并显示 [xN] 计数。纯客户端 mod，适用于 Minecraft 1.12.2 Forge。",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Rainsect"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
